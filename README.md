@@ -31,3 +31,7 @@
 17. git stash list 查看目前暫時存檔
 18. git stash pop  調出暫時存檔
 19. git stash apply 0 將暫存取出並保留
+## GitHub
+1. git clone 'repo' 抓repo
+2. git pull 更新資料
+
