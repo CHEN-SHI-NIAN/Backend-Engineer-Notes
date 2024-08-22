@@ -34,4 +34,15 @@
 ## GitHub
 1. git clone 'repo' 抓repo
 2. git pull 更新資料
+3. git push 推送資料
+4. git push -u origin '分支名稱'
+5. git revert commitHash 修正錯誤
+6. git rebase -i HEAD~3 融合commit
+7. git branch -r 查看GitHub上分支
+8. git pull origin main 更新支線main進度
+### Merge Conflict 合併衝突  
+9. git config pull.rebase false
+並在執行一次 git pull 進行選擇變更
+
+
 
