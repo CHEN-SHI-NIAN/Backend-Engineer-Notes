@@ -53,6 +53,12 @@
 ## 抽象（Abstraction）
 將複雜的系統細節隱藏起來，僅保留必要的、對外有意義的屬性和方法。抽象可以幫助開發者專注於更高層次的設計，並提高系統的靈活性和可擴展性。
 
+# CI/CD Docker
+### CI 持續整合 continuous Integration
+### CD 持續交付/部屬 continuous Delivery/Deployment
+## jenkins
+
+
 
 
 
